@@ -355,13 +355,6 @@ namespace _03_MakingDecision
                     break;
             }
 
-
-
-
-
-
-
-
             #endregion
 
             Console.ReadKey();
